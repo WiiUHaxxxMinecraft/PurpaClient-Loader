@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>PurpaClient Loader</title>
+
+  <style>
+    body {
+      background-color: white;
+      color: black;
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    #loadButton {
+      color: blue;
+      text-decoration: underline;
+      cursor: pointer;
+      font-size: 20px;
+    }
+
+    #loadingPage {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+
+    #loadingMessage {
+      margin-top: 45%;
+      font-size: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <a id="loadButton" href="#" onclick="startLoading(); return false;">
+    Load PurpaClient
+  </a>
+
+  <div id="loadingPage">
+    <p id="loadingMessage">
+      Loading success! Returning to HOME Menu...
+    </p>
+  </div>
+
+  <script>
+    function startLoading() {
+      document.getElementById("loadButton").style.display = "none";
+
+      setTimeout(function() {
+        document.body.style.backgroundColor = "black";
+        document.getElementById("loadingPage").style.display = "block";
+      }, 2500);
+    }
+  </script>
+
+</body>
+</html>
