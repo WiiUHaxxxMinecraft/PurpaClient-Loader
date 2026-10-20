@@ -1,4 +1,20 @@
 After loading the website and making sure the Wii U properly got injected, and make sure you have Java and JGecko U installed on your PC, check this out for MK8: https://github.com/m-byte918/MK8-Cheat-Codes.
-If I find more cheat codes for other games, i will update the README.
+If I find more cheat codes for other games, i will update the README (THE INJECTION WILL APPEAR AS AN AROMA PLUGIN, IF NOT, YOU'RE NOT WHITELISTED).
 
 Current credits: m-byte918.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Haxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
